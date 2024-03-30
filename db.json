@@ -1,5 +1,15 @@
 {
   "events": [
+
+    {"name": "Historical Tales", "artist": "Hot Since 82", "date": "2024.07.19", "city": "Budapest", "img_url": "https://i.imgur.com/BykJvGV.jpeg" },
+    {"name": "Historical Tales", "artist": "Christian Löffler", "date": "2024.06.15", "city": "Budapest", "img_url": "https://i.imgur.com/V9gSwUu.jpeg" },
+    {"name": "Historical Tales", "artist": "Parra for Cuva", "date": "2024.06.15", "city": "Budapest", "img_url": "https://i.imgur.com/V9gSwUu.jpeg" },
+    {"name": "Historical Tales", "artist": "Thylacine", "date": "2024.06.15", "city": "Budapest", "img_url": "https://i.imgur.com/V9gSwUu.jpeg" },
+
+    {"name": "Gyárkert", "artist": "Paul Kalkbrenner", "date": "2024.06.10", "city": "Veszprém", "img_url": "https://i.imgur.com/aO6GMT5.jpeg" },
+    {"name": "Gyárkert", "artist": "Carl Craig", "date": "2024.07.28", "city": "Veszprém", "img_url": "https://i.imgur.com/z66oWrh.jpeg" },
+    {"name": "Gyárkert", "artist": "Kraftwerk", "date": "2024.08.09", "city": "Veszprém", "img_url": "https://i.imgur.com/suOc6xy.jpeg" },
+
     {"name": "Historical Tales", "artist": "Mathame", "date": "2023.07.17", "city": "Budapest", "img_url": "https://i.imgur.com/K3OwzqT.jpeg" },
     {"name": "Bónusz Festival 2023", "artist": "Yotto", "date": "2023.10.13", "city": "Budapest", "img_url": "https://i.imgur.com/Bzjbr4G.jpeg" },
     {"name": "Anjunadeep Open Air Budapest", "artist": "Marsh", "date": "2023.09.02", "city": "Budapest", "img_url": "https://i.imgur.com/nljfFbA.jpeg" },
@@ -11,7 +21,10 @@
     {"name": "The Project: Unity Pre-NYE", "artist": "ANII", "date": "2023.12.13", "city": "Budapest", "img_url": "https://i.imgur.com/XsDVqSk.jpg" },
     {"name": "The Project: Unity Pre-NYE", "artist": "Goom Gum", "date": "2023.12.13", "city": "Budapest", "img_url": "https://i.imgur.com/XsDVqSk.jpg" },
 
-    {"name": "TINLICKER - In Another Lifetime album tour", "artist": "Tinlicker", "date": "2022.03.12", "city": "Budapest", "img_url": "https://i.imgur.com/42a1CfO.jpeg"}
+    {"name": "TINLICKER - In Another Lifetime album tour", "artist": "Tinlicker", "date": "2022.03.12", "city": "Budapest", "img_url": "https://i.imgur.com/42a1CfO.jpeg"},
+
+    {"name": "Tiesto Classic Night", "artist": "Tiesto", "date": "2008.09.12", "city": "Pécs", "img_url": "https://i.imgur.com/gqclKXh.jpg" },
+    {"name": "Tiesto Classic Night", "artist": "First State", "date": "2008.09.12", "city": "Pécs", "img_url": "https://i.imgur.com/gqclKXh.jpg" }
   ],
   "locations": [
     { "country": "Great Britain", "cities": ["London"] },
